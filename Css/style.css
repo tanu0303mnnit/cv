@@ -1,0 +1,16 @@
+body{
+  background-color: #FFEBCC;
+}
+hr{
+/*  background-color: #FBFFE2; as height is 0px so background color doesnot displayed*/
+  border-style:none;
+  border-top-style: dotted;
+  border-color:#FBFFE2;
+  border-width:7px;
+  height: 0px;
+  width: 8%;
+}
+h1,h3
+{
+  color: #FFAFAF;
+}
